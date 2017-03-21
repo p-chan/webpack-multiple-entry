@@ -1,1 +1,1 @@
-require('../menu');
+require('../modules/menu');

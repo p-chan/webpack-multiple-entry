@@ -1,2 +1,2 @@
-require('../head');
-require('../body');
+require('../modules/head');
+require('../modules/body');

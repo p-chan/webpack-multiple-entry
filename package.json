@@ -1,0 +1,11 @@
+{
+  "name": "webpack-multiple-entry",
+  "version": "1.0.0",
+  "description": "Try webpack multiple entry points",
+  "author": "P-Chan <hello@0x50.io> (https://0x50.io/)",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "private": true
+}
